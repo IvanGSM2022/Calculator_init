@@ -15,6 +15,7 @@ public class Main {
             String inputtext = scanner.nextLine();
             System.out.println(calc(inputtext));
             System.out.println("THE text");
+            System.out.println("The next text");
         }
     }
     public static String calc(String input) throws IOException {
