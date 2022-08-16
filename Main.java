@@ -14,6 +14,7 @@ public class Main {
                     "но от 1 до 10");
             String inputtext = scanner.nextLine();
             System.out.println(calc(inputtext));
+            System.out.println("THE text");
         }
     }
     public static String calc(String input) throws IOException {
