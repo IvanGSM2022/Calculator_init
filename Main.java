@@ -17,6 +17,7 @@ public class Main {
             System.out.println("THE text");
             System.out.println("The next text");
             System.out.println("Some new text is added");
+            System.out.println(" ");
         }
     }
     public static String calc(String input) throws IOException {
